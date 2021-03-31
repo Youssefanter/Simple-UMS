@@ -151,7 +151,8 @@ table th {
 }
 #update_user .form-group input[type="text"],
 #add_user .form-group input[type="text"],
-#update_user .form-group input[type="email"] {
+#update_user .form-group input[type="email"],
+#add_user .form-group input[type="email"] {
   width: 100%;
   padding: 0.6em 1em;
   margin: 0.5em 0;
